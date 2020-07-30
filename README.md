@@ -6,7 +6,7 @@ This repository is for "Frontoparietal dynamics and value accumulation in intert
 ERP data for each subject. 
 
 ## ISPC
-ISPC data for each subject and condition. Condition is for experimental choice probability (P<sub>D</sub>). Due to the restrictions, the files were uploaded into two seperate directories. Cond1 corresponds to 0.1 P<sub>D</sub>, Cond2 corresponds to 0.3 P<sub>D</sub>, and so on.
+ISPC data for each subject and condition. Condition is for experimental choice probability (P<sub>D</sub>). Due to the restrictions of file uploading, the files were split into two directories. Cond1 corresponds to 0.1 P<sub>D</sub>, Cond2 corresponds to 0.3 P<sub>D</sub>, and so on.
 
 ## Behavior
 choice-RT data for each subject. Each column represents the following information.
