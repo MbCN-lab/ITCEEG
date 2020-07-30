@@ -13,10 +13,10 @@ choice-RT data for each subject. Each column represents the following informatio
 
 | Column | Description                                                                                   |
 |--------|-----------------------------------------------------------------------------------------------|
-| subj   |                                                                                               |
+| subj   | subject ID                                                                                    |
 | rt     | response time (unit: millisecond)                                                             |
 | resp   | choice response. 0 coded as smaller sooner (SS) option and 1 coded as larger later (LL).      |
-| cond   | experimental P<sub>D</sub>. For instance, 0.1 is for choosing LL option with 10% probability. |
+| cond   | experimental P<sub>d</sub>. For instance, 0.1 is for choosing LL option with 10% probability. |
 | r1     | monetary reward for SS option                                                                 |
 | r2     | monetary reward for LL option                                                                 |
 | t1     | time delay for SS option                                                                      |
